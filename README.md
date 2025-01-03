@@ -1,4 +1,5 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-ローカルリポで変更　　
-github上で更新/もう１回更新
+ローカルリポで変更s
+github上で更新(remmote上で更新　conflict)
+
